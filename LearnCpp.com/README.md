@@ -1,8 +1,10 @@
 # Repository For Exercises Related to learncpp.com
 
-- [x] CH1
-- [x] CH2
-- [x] CH3
+## Completed Chapters
+
+- [x] CH1: Basic Syntax
+- [x] CH2: Basic header files, functions, structure
+- [] CH3
 - [ ] CH4
 - [ ] CH5
 - [ ] CH6
