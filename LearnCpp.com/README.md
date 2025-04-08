@@ -4,7 +4,7 @@
 
 - [x] CH1: Basic Syntax
 - [x] CH2: Basic header files, functions, structure
-- [] CH3
+- [x] CH3: Debugging (They used integrated debuggers but GDB works file)
 - [ ] CH4
 - [ ] CH5
 - [ ] CH6
