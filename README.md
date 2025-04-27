@@ -6,10 +6,16 @@ I will also rate and give my thoughts on each book / course.
 
 ## Current
 
-### Computer Networking: A Top Down Approach
+### Networking
 
-### learncpp.com
+- **Computer Networking: A Top Down Approach**
 
-### Option Volatility & Pricing
+### C++
+
+- **learncpp.com**
+
+### Finance
+
+- **Option Volatility & Pricing**
 
 ## Completed
