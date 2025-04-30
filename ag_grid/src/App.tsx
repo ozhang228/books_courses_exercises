@@ -1,4 +1,4 @@
-import QuickStart from "./QuickStart"
+import ShowingData from "./exercises/ShowingData"
 import { AllCommunityModule, ModuleRegistry } from "ag-grid-community";
 
 ModuleRegistry.registerModules([AllCommunityModule]);
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <QuickStart></QuickStart>
+      <ShowingData></ShowingData>
     </>
   )
 }
