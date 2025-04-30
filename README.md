@@ -16,7 +16,7 @@ I will also rate and give my thoughts.
 
 ### JavaScript
 
-- [AG Grid Showcase](https://blog.ag-grid.com/showcase/): Implementing some of the showcased grids in order to understand the library
+- [AG Grid Showcase](ag-grid.com): Reading through the docs and implementing as I read through it.
 
 ### C++
 
