@@ -6,20 +6,9 @@ I will also rate and give my thoughts.
 
 ## Current
 
-### Networking
-
 - **Computer Networking: A Top Down Approach**
-
-### Finance
-
+- **OS: Three Easy Pieces**
 - **Option Volatility & Pricing**
-
-### JavaScript
-
-- [AG Grid Showcase](ag-grid.com): Reading through the docs and implementing as I read through it.
-
-### C++
-
-- [Learn CPP](/learncpp.com): Online Learning For C++
+- **LearnCPP.com**
 
 ## Completed
