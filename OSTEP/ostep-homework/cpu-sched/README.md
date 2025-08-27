@@ -1,4 +1,3 @@
-
 # Overview
 
 This program, scheduler.py, allows you to see how different schedulers perform
