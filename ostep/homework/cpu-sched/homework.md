@@ -75,11 +75,11 @@ Job 2 ( length = 200)
 
 4. For what types of workloads does SJF deliver the same turnaround times as FIFO?
 
-For workloads that either come in sorted (shortest first) which also includes those that have the same process time.
+For workloads that come in non-decreasing order
 
 5. For what types of workloads and quantum lengths does SJF deliver the same response times as RR?
   
-When the average running time of a process in SJF is equal to the quantum length
+When every process is equal length an
 
 6. What happens to response time with SJF as job lengths increase? Can you use the simulator to demonstrate the trend?
 
