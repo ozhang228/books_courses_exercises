@@ -1,6 +1,6 @@
 [submodule "computer_networking_top_down/http_server"]
 	path = computer_networking_top_down/http_server
-	url = https://github.com/oscarzhang228/http_server.git
+	url = https://github.com/ozhang228/http_server.git
 [submodule "crafting_interpreters/pylox"]
 	path = crafting_interpreters/pylox
 	url = https://github.com/ozhang228/pylox.git
